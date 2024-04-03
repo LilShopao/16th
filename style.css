@@ -73,6 +73,12 @@
   transition: all 2.5s;
 }
 
+.show{
+  opacity: 1;
+  filter: blur(0);
+  transform:translateX(0)
+} 
+
 .name {
   text-align: center;
   border: 1px dotted transparent;
