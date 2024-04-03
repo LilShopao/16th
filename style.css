@@ -30,14 +30,14 @@
   top: 2px;
   position: relative;
   text-align: center;
-  background-color: white;
+  background-color: #F5D047;
   border: 1px solid transparent;
   text-decoration: underline;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
   font-size: 30px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: #36454F;
+  color: #4B7FFF;
 
 }
 
@@ -46,7 +46,7 @@
   height: auto;
   position: relative;
   display: flex;
-  background-color: white;
+  background-color: #4B7FFF;
   border: 1px solid transparent;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
